@@ -1,2 +1,6 @@
 # Carlifornia-House-Price-Prediction
-A machine learning model that predicts the prices of houses in California given a certain dataset
+This Data Science project predicts prices of houses in different areas of Carlifornia State based on various features extracted from the data.
+
+These features include housing median age, total rooms, total bedrooms, population, households, ocean_proximity, median_income, longitude, latitude and median house value.
+
+It also examines features that determine prices of houses in the State of Carlifornia
