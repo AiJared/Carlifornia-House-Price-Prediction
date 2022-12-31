@@ -33,3 +33,13 @@ from the histograms below, total_rooms, total_bedrooms, households, median_incom
 ## Training the Model
 
 Data is split into training and testing sets. Median_house_value variable is assigned to "Y" for prediction while the rest except ocean_proximity assigned to "X" during training and testing. Ocean_proximity is dropped because it is categorical and also there are location coordinates (longitude and latitude) which works well on behalf of ocean_proximity. However, if there weren't location coordinates then ocean_proximity would have been very usefull.
+
+80% of the data is used for training while the remaining 20% used for testing. This ensures that the model has enough dataset to train on for a desirable accuracy.
+
+Four algorithms are used to fit and train the model; Linear Regression, Support Vector Machine for Regression, Random Forest for regression and Decision Tree for regression.
+
+Below are the different results from different algorithms:
+
+#### Linear Regression
+
+![Screenshot 2022-12-31 094500](https://user-images.githubusercontent.com/78556152/210127951-1de04780-4378-49a0-9652-0240239ddb12.png)
