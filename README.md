@@ -40,6 +40,10 @@ Four algorithms are used to fit and train the model; Linear Regression, Support 
 
 Below are the different results from different algorithms:
 
-#### Linear Regression
+#### Linear Regression Algorithm
 
 ![Screenshot 2022-12-31 094500](https://user-images.githubusercontent.com/78556152/210127951-1de04780-4378-49a0-9652-0240239ddb12.png)
+
+#### Support Vector Machine Algorithm
+
+![Screenshot 2022-12-31 094853](https://user-images.githubusercontent.com/78556152/210128034-502026f0-21fa-4429-b8ef-b3644c01826a.png)
