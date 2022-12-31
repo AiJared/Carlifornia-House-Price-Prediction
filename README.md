@@ -47,3 +47,7 @@ Below are the different results from different algorithms:
 #### Support Vector Machine Algorithm
 
 ![Screenshot 2022-12-31 094853](https://user-images.githubusercontent.com/78556152/210128034-502026f0-21fa-4429-b8ef-b3644c01826a.png)
+
+#### Randon Forest Algorithm
+
+![Screenshot 2022-12-31 095142](https://user-images.githubusercontent.com/78556152/210128108-98510bb5-63f3-498e-943e-3b55dce8b367.png)
