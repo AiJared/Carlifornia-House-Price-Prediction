@@ -55,3 +55,22 @@ Below are the different results from different algorithms:
 #### Decision Tree Algorithm
 
 ![Screenshot 2022-12-31 095410](https://user-images.githubusercontent.com/78556152/210128176-2c3d9643-de91-4289-9614-6c46b23895bb.png)
+
+## Explaining Training Results
+
+As shown above, different Algorithms came up with different training results. 
+
+I used the values; (-122.23 	37.88 	41 	880 	129.0 	322 	126 	8.3252) to test for accuracy and error of prediction values of the Algorithms separately. The expected median_house_value for the above values is 452,600.
+
+Linear Regression predicted 410853.54470207 with an accuracy of 91% and an error of 9%. However, overall accuracy is 63% for training and 64% for testing. This means that it would have performed poorly for most of the predictions given a huge averall error of over 35%.
+
+Support Vector Machine predicted 169346.95003061 which is extremely poor with a huge error of 62%. This algorithm cannot perform well for predicting median_house_price in this dataset, it has an averal accuracy of 10% for training and 5% for testing.
+
+Random Forest Algorithm predicted 451563.28 which is great with an accuracy of 98%. The averall accuracy is 97% for training and 82% for testing. This makes it a good algorithm for this project
+
+Decision Tree Algorithm predicted 500001 with an accuracy of 90%. The averall accuracy is 100% for training and 66% for testing. It is good in training but performs poorly for testing.
+
+## Conclusion
+
+From the above results on training the model with different Algorithms, it is clear that RandomForestRegressor is the
+right Algorithm for the project
