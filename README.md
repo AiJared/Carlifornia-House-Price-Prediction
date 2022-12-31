@@ -51,3 +51,7 @@ Below are the different results from different algorithms:
 #### Randon Forest Algorithm
 
 ![Screenshot 2022-12-31 095142](https://user-images.githubusercontent.com/78556152/210128108-98510bb5-63f3-498e-943e-3b55dce8b367.png)
+
+#### Decision Tree Algorithm
+
+![Screenshot 2022-12-31 095410](https://user-images.githubusercontent.com/78556152/210128176-2c3d9643-de91-4289-9614-6c46b23895bb.png)
