@@ -22,3 +22,10 @@ There are no duplicate values in the dataset
 From checking for correlation, it is clear that the median_house_value is determined mostly by median_income, total_rooms, housing_median_age, total_bedrooms, households and population due to high degree of correlation to each other as show by the high concentration of blue colored values that are above 0.50. Other features are correlated with low degree as shown in the figure below.
 
 ![correlation](https://user-images.githubusercontent.com/78556152/210124663-659c64eb-8698-41a4-a048-8e694b888bc6.png)
+
+## Data Visualization
+
+from the histograms below, total_rooms, total_bedrooms, households, median_income, population and median_house_value are positively skewed evident by tails on the right side of distributions. Longitude and Latitude are bimodal as shown by two distinct peaks while the distribution of housing_median_age is random.
+
+![house_price_data_visualization](https://user-images.githubusercontent.com/78556152/210125665-1b598e10-cb4d-46f9-99b1-834c6073547d.png)
+
