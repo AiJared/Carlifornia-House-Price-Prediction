@@ -17,3 +17,4 @@ It has 20640 rows by 10 columns.
 
 All plotted figures in this project are saved as png file images for future reference if need.
 
+There are no duplicate values in the dataset
