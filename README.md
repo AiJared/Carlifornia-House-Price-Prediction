@@ -74,3 +74,7 @@ Decision Tree Algorithm predicted 500001 with an accuracy of 90%. The averall ac
 
 From the above results on training the model with different Algorithms, it is clear that RandomForestRegressor is the
 right Algorithm for the project
+
+Median house price is determined by a number of factors. These factors include location of the house(for Carlifornia, the closer the house is to the ocean the more expensive it is and vise verser), number of rooms, number of bedrooms, households, median income and population.
+
+For this project, the more rooms and bedrooms a house have the more expensive it is, this also goes for households, population and median income.
