@@ -28,5 +28,4 @@ From checking for correlation, it is clear that the median_house_value is determ
 
 from the histograms below, total_rooms, total_bedrooms, households, median_income, population and median_house_value are positively skewed evident by tails on the right side of distributions. Longitude and Latitude are bimodal as shown by two distinct peaks while the distribution of housing_median_age is random.
 
-![house_price_data_visualization](https://user-images.githubusercontent.com/78556152/210125665-1b598e10-cb4d-46f9-99b1-834c6073547d.png)
-
+![Screenshot 2022-12-31 092833](https://user-images.githubusercontent.com/78556152/210127559-7fe02023-b30c-450c-b9db-fd33ae57c6fb.png)
